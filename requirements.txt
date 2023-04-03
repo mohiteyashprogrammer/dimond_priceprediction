@@ -1,1 +1,11 @@
 Flask
+pandas
+numpy
+matplotlib
+seaborn
+statistics
+pymongo
+sklearn
+
+-e .
+
