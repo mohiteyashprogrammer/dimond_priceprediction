@@ -5,7 +5,7 @@ matplotlib
 seaborn
 statistics
 pymongo
-sklearn
+scikit-learn
 
 -e .
 
